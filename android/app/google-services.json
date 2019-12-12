@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "756274530347",
+    "firebase_url": "https://flutterfirebase-eeb1e.firebaseio.com",
+    "project_id": "flutterfirebase-eeb1e",
+    "storage_bucket": "flutterfirebase-eeb1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756274530347:android:ffce7720ad6612c3bcc26e",
+        "android_client_info": {
+          "package_name": "com.yogelearning.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756274530347-0lcpuqku2is9s4fkbti0m4q8vvutq7ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-LKFqqbC8x4YpVn7cnrjKr6TEYxsoE_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756274530347-0lcpuqku2is9s4fkbti0m4q8vvutq7ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
